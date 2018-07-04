@@ -13,6 +13,7 @@ Hi, here is some more writing to see if that shows up.
    :caption: Contents:
 
    about-me
+   tutorial
 
 
 
